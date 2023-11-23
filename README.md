@@ -2,7 +2,7 @@
 <div>
   <h1>Welcome to my page!</h1>
   <p>👋Hi, my name is Gonçalo Gouveia</p>
-  <p>🌱I am crrently studying Information Technologies</p>
+  <p>🌱I am currently studying Information Technologies</p>
 </div>
 <br>
 <div>
