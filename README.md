@@ -11,6 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
   <a href="https://www.mysql.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/></a>
   <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"/></a> 
+  <a href="https://www.ruby-lang.org/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="50" height="50"></a>
 </div>
 
 <!--
